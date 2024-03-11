@@ -13,4 +13,4 @@ const generateRandomNurseryRyhme = () => {
     console.log(`Remember to ${randomaction} as you sing!`);
 }
 
-generateRandomNurseryRyhme();
+generateRandomNurseryRyhme(); //run the generator
